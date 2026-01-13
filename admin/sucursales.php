@@ -124,7 +124,7 @@
 										<div class="col-md-9">
 											<div class="form-group">
 												<label for="nombre">Nombre</label>
-												<input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre de la Categoría" maxlength="80" required>
+												<input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre de la Sucursal" maxlength="80" required>
 											</div>
 										</div>
                                         <div class="col-md-3">
