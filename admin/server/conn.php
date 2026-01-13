@@ -4,7 +4,7 @@
 		$user = 'root'; //usuario
 		$password = ''; //senha
 		$host = 'localhost'; //hosts
-		$dbname = 'ramirez'; //nombre da base de dados
+		$dbname = 'vvazul'; //nombre da base de dados
 
 		$parametros = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'UTF8'"); //caso os dados estejam com acentos ou ç
 		try {
