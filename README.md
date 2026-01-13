@@ -10,8 +10,9 @@ https://docs.google.com/document/d/1lnWs7aFQ1tR8nzMAU9SA-_QogVAxshbwoPlSmsrX27Q/
 - **JavaScript**
 - **CSS**
 - **HTML**
+- **MySQL**
 
-## Project setup
+## Outros
 ```
-
+Na pasta ADMIN>database>database.sql está a estrutura do banco de dados com alguns dados de produtos. 
 ```
