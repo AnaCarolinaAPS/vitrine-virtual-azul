@@ -1,5 +1,5 @@
 # :department_store: vitrine-virtual-azul
-Projeto de **vitrine virtual** com a finalidade de exibir produtos e direcionar possíveis comprados à atendentes no whatsapp da loja. Projeto desenvolvido em PHP puro (sem uso de frameworks) para um Cliente confidencial no Paraguay do ramo de produtos para casa, como móveis e eletrônicos. 
+Projeto de **vitrine virtual** com a finalidade de exibir produtos e direcionar possíveis comprados à atendentes no whatsapp da loja. Projeto desenvolvido em PHP puro (sem uso de frameworks) para um Cliente confidencial no Paraguay do ramo de produtos para casa, como móveis e eletrônicos. [Projeto Entregue 27/07/202]
 
 ## :bookmark_tabs: Proposta
 Disponível no link: <br>
